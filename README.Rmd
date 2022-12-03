@@ -1,0 +1,22 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# R_Statistics
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+# Intended Use
+This Repo is for my personal use and I plan to store codes that interests my Statistical reserach. 
+
+
